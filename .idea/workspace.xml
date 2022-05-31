@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cfb5bdd-e2d7-46f3-9125-78ef6a98c5be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1buJWxzOVkBF5vE07IDNQpxC6pL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Jafet\GDrive\Main\UP\Courses\2020-2_Jan-Jun\CG\Code\Raytracerv0.7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Raytracer (1)">
+    <configuration name="Raytracer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="up.edu.raytracer.Raytracer" />
+      <module name="Raytracerv1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="up.edu.raytracer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Raytracer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="up.edu.isgc.raytracer.Raytracer" />
+      <module name="Raytracerv1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Raytracer (1)" />
+        <item itemvalue="Application.Raytracer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cfb5bdd-e2d7-46f3-9125-78ef6a98c5be" name="Default Changelist" comment="" />
+      <created>1589476080555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589476080555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1591592200524">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="714" y="248" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1024@0.23.1792.1024" timestamp="1591547434362" />
+    <state x="714" y="248" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1026@0.23.1792.1026" timestamp="1591582963751" />
+    <state x="714" y="249" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1028@0.23.1792.1028" timestamp="1591592200524" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589476553137" />
+    <state x="745" y="440" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591152521041">
+      <screen x="0" y="23" width="1792" height="1021" />
+    </state>
+    <state x="745" y="440" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.1021@0.23.1792.1021" timestamp="1591152521041" />
+    <state width="1750" height="134" key="GridCell.Tab.0.bottom" timestamp="1591624557849">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="174" key="GridCell.Tab.0.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1591502479449" />
+    <state width="1750" height="134" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1591611211203" />
+    <state width="1750" height="134" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1591620567885" />
+    <state width="1750" height="134" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1591624557849" />
+    <state width="1750" height="187" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1591596715633" />
+    <state width="1750" height="175" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1591529432553" />
+    <state width="1899" height="85" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589478194334" />
+    <state width="1750" height="134" key="GridCell.Tab.0.center" timestamp="1591624557849">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="174" key="GridCell.Tab.0.center/0.23.1792.1020@0.23.1792.1020" timestamp="1591502479448" />
+    <state width="1750" height="134" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1591611211202" />
+    <state width="1750" height="134" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1591620567884" />
+    <state width="1750" height="134" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1591624557849" />
+    <state width="1750" height="187" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1591596715632" />
+    <state width="1750" height="175" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1591529432552" />
+    <state width="1899" height="85" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589478194334" />
+    <state width="1750" height="134" key="GridCell.Tab.0.left" timestamp="1591624557849">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="174" key="GridCell.Tab.0.left/0.23.1792.1020@0.23.1792.1020" timestamp="1591502479448" />
+    <state width="1750" height="134" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1591611211202" />
+    <state width="1750" height="134" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1591620567884" />
+    <state width="1750" height="134" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1591624557849" />
+    <state width="1750" height="187" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1591596715632" />
+    <state width="1750" height="175" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1591529432551" />
+    <state width="1899" height="85" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589478194334" />
+    <state width="1750" height="134" key="GridCell.Tab.0.right" timestamp="1591624557849">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="174" key="GridCell.Tab.0.right/0.23.1792.1020@0.23.1792.1020" timestamp="1591502479449" />
+    <state width="1750" height="134" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1591611211202" />
+    <state width="1750" height="134" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1591620567884" />
+    <state width="1750" height="134" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1591624557849" />
+    <state width="1750" height="187" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1591596715633" />
+    <state width="1750" height="175" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1591529432552" />
+    <state width="1899" height="85" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589478194334" />
+    <state width="1750" height="345" key="GridCell.Tab.1.bottom" timestamp="1591624557845">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.1.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1591624557845" />
+    <state width="1750" height="345" key="GridCell.Tab.1.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1591515865199" />
+    <state width="1750" height="345" key="GridCell.Tab.1.center" timestamp="1591624557844">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.1.center/0.23.1792.1026@0.23.1792.1026" timestamp="1591624557844" />
+    <state width="1750" height="345" key="GridCell.Tab.1.center/0.23.1792.1030@0.23.1792.1030" timestamp="1591515865198" />
+    <state width="1750" height="345" key="GridCell.Tab.1.left" timestamp="1591624557844">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.1.left/0.23.1792.1026@0.23.1792.1026" timestamp="1591624557844" />
+    <state width="1750" height="345" key="GridCell.Tab.1.left/0.23.1792.1030@0.23.1792.1030" timestamp="1591515865198" />
+    <state width="1750" height="345" key="GridCell.Tab.1.right" timestamp="1591624557845">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.1.right/0.23.1792.1026@0.23.1792.1026" timestamp="1591624557845" />
+    <state width="1750" height="345" key="GridCell.Tab.1.right/0.23.1792.1030@0.23.1792.1030" timestamp="1591515865199" />
+    <state x="383" y="113" key="SettingsEditor" timestamp="1591618171619">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="383" y="113" key="SettingsEditor/0.23.1792.1026@0.23.1792.1026" timestamp="1591618171619" />
+    <state x="8" y="157" width="1598" height="973" key="dock-window-1" timestamp="1591610140989">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="8" y="157" width="1598" height="973" key="dock-window-1/0.23.1792.1022@0.23.1792.1022" timestamp="1591610140989" />
+    <state x="657" y="156" key="refactoring.ChangeSignatureDialog" timestamp="1591584124182">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="657" y="156" key="refactoring.ChangeSignatureDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1591584124182" />
+    <state x="561" y="246" key="run.anything.popup" timestamp="1591502751850">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="561" y="246" key="run.anything.popup/0.23.1792.1024@0.23.1792.1024" timestamp="1591502751850" />
+    <state x="561" y="266" width="670" height="676" key="search.everywhere.popup" timestamp="1591172575321">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state x="561" y="266" width="670" height="676" key="search.everywhere.popup/0.23.1792.1018@0.23.1792.1018" timestamp="1591172575321" />
+  </component>
+</project>
